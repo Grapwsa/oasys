@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### 经典 oasys(OA自动化办公系统)
  - 办公自动化（OA）是面向组织的日常运作和管理,员工及管理者使用频率最高的应用系统，极大提高公司的办公效率。
  - 如果oaSys帮助了您，请给我们点Star.
@@ -75,3 +76,6 @@ If the project is very helpful to you, you can buy the author a cup of coffee.
 |支付宝      |    微信|
 | :--------: | :--------:|
 | <img src="https://images.gitee.com/uploads/images/2019/0909/165504_f02dc52b_1277461.jpeg " width="300"  align=center />|<img src="https://images.gitee.com/uploads/images/2019/0909/165444_ab4377b4_1277461.jpeg " width="300"  align=center />|
+=======
+# oasys
+>>>>>>> bd041c3150b6db56c629172e2649c6d386c854e5
